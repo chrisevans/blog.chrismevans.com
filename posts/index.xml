@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chris&#39;s Blob Storage</title>
+    <link>http://blog.chrismevans.com/posts/</link>
+    <description>Recent content in Posts on Chris&#39;s Blob Storage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 15:34:48 -0600</lastBuildDate><atom:link href="http://blog.chrismevans.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Blog</title>
+      <link>http://blog.chrismevans.com/posts/first-post/</link>
+      <pubDate>Sat, 09 Jan 2021 15:34:48 -0600</pubDate>
+      
+      <guid>http://blog.chrismevans.com/posts/first-post/</guid>
+      <description>I will be doing posts on several topic including: whiskey tasting notes, coding thoughts or challenges, and anything else I am interested in or a project I am working on.</description>
+    </item>
+    
+  </channel>
+</rss>
